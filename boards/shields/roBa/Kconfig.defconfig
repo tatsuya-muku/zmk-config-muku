@@ -1,4 +1,4 @@
-if SHIELD_ROBA_R
+if SHIELD_MUKU_R
 
 config ZMK_KEYBOARD_NAME
     default "muku_R"
@@ -11,7 +11,7 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if SHIELD_ROBA_L
+if SHIELD_MUKU_L
 
 config ZMK_KEYBOARD_NAME
     default "muku_L"
