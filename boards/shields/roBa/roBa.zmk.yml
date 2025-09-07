@@ -1,8 +1,8 @@
 file_format: "1"
-id: roBa
-name: roBa
+id: muku
+name: muku
 type: shield
-url: https://github.com/kumamuk-git/zmk-config-roBa
+url: https://github.com/tatsuya-muku/zmk-config-muku
 requires: [seeeduino_xiao_ble]
 features:
   - keys
