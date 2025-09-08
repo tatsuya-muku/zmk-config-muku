@@ -1,5 +1,5 @@
 config SHIELD_MUKU_R
-    def_bool $(shields_list_contains,muku_R)
+    def_bool $(shields_list_contains,roBa_R)
 
 config SHIELD_MUKU_L
-    def_bool $(shields_list_contains,muku_L)
+    def_bool $(shields_list_contains,roBa_L)
