@@ -1,7 +1,7 @@
 if SHIELD_MUKU_R
 
 config ZMK_KEYBOARD_NAME
-    default "muku_R"
+    default "roBa_R"
 
 config ZMK_SPLIT
     default y
@@ -14,7 +14,7 @@ endif
 if SHIELD_MUKU_L
 
 config ZMK_KEYBOARD_NAME
-    default "muku_L"
+    default "roBa_L"
 
 config ZMK_SPLIT
     default y
