@@ -1,4 +1,4 @@
-#include "roBa.dtsi"
+#include "muku.dtsi"
 #include <zephyr/dt-bindings/input/input-event-codes.h>
 
 &default_transform {
