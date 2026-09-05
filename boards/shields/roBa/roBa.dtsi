@@ -118,6 +118,10 @@
     };
 };
 
+&uicr {
+    nfct-pins-as-gpios;
+};
+
 &spi0 {
     status = "disabled";
 
